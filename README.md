@@ -1,2 +1,3 @@
-# 50Projects
-Web projects using HTML, CSS &amp; JS
+# 50Projects - HTML/CSS and JavaScript
+This is the main repository for all the projects
+
